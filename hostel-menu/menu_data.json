@@ -43,6 +43,11 @@
     {
       "url": "https://raw.githubusercontent.com/FlavrApogi/Apogi/main/hostel-menu/menu_1760369596160.jpg",
       "timestamp": "2025-10-13T15:33:18.331Z",
+      "active": false
+    },
+    {
+      "url": "https://raw.githubusercontent.com/FlavrApogi/Apogi/main/hostel-menu/menu_1762502109026.png",
+      "timestamp": "2025-11-07T07:55:12.143Z",
       "active": true
     }
   ]
