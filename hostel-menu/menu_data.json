@@ -1,51 +1,6 @@
 {
   "menus": [
     {
-      "url": "https://raw.githubusercontent.com/FlavrApogi/Apogi/main/hostel-menu/menu_1752528557379.png",
-      "timestamp": "2025-07-14T21:29:22.110Z",
-      "active": false
-    },
-    {
-      "url": "https://raw.githubusercontent.com/FlavrApogi/Apogi/main/hostel-menu/menu_1752529085271.png",
-      "timestamp": "2025-07-14T21:38:09.140Z",
-      "active": false
-    },
-    {
-      "url": "https://raw.githubusercontent.com/FlavrApogi/Apogi/main/hostel-menu/menu_1752529152406.jpg",
-      "timestamp": "2025-07-14T21:39:14.422Z",
-      "active": false
-    },
-    {
-      "url": "https://raw.githubusercontent.com/FlavrApogi/Apogi/main/hostel-menu/menu_1752529259083.png",
-      "timestamp": "2025-07-14T21:41:02.095Z",
-      "active": false
-    },
-    {
-      "url": "https://raw.githubusercontent.com/FlavrApogi/Apogi/main/hostel-menu/menu_1752529958772.png",
-      "timestamp": "2025-07-14T21:52:41.038Z",
-      "active": false
-    },
-    {
-      "url": "https://raw.githubusercontent.com/FlavrApogi/Apogi/main/hostel-menu/menu_1753979908106.png",
-      "timestamp": "2025-07-31T16:38:30.101Z",
-      "active": false
-    },
-    {
-      "url": "https://raw.githubusercontent.com/FlavrApogi/Apogi/main/hostel-menu/menu_1756647436053.png",
-      "timestamp": "2025-08-31T05:36:53.750Z",
-      "active": false
-    },
-    {
-      "url": "https://raw.githubusercontent.com/FlavrApogi/Apogi/main/hostel-menu/menu_1758971819670.png",
-      "timestamp": "2025-09-27T11:17:05.862Z",
-      "active": false
-    },
-    {
-      "url": "https://raw.githubusercontent.com/FlavrApogi/Apogi/main/hostel-menu/menu_1760369596160.jpg",
-      "timestamp": "2025-10-13T15:33:18.331Z",
-      "active": false
-    },
-    {
       "url": "https://raw.githubusercontent.com/FlavrApogi/Apogi/main/hostel-menu/menu_1762502109026.png",
       "timestamp": "2025-11-07T07:55:12.143Z",
       "active": true
